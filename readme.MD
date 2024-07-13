@@ -1,6 +1,6 @@
 # Swipe
 
-![Swipe](assets/logo-white.svg)
+![Swipe](assets/thumbnail.jpg)
 
 ## Overview
 
